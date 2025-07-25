@@ -1,2 +1,5 @@
 # Ignore the entire secure directory
 secure/
+# Ignore specific files at the root, if needed
+guilty_pleasures.md
+.gitignore
